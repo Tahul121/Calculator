@@ -9,7 +9,7 @@
 
 
  <br>
-<h6>This Is A Memory Card Game Made By Rahul Tech Ser. You Can Play This Game By Tapping The Play Button And If You Encounter Any Problems, Please Contact Me.</h6>
+<h6>This Is A Calculator Made By Rahul Tech Ser. You Can Use This Calculator By Tapping The Go Button And If You Encounter Any Problems, Please Contact Me.</h6>
 
 <div align="center">
  <br>
