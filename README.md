@@ -13,7 +13,7 @@
 
 <div align="center">
  <br>
- <img src="https://imgur.com/WlR8Xnw.jpeg" alt="" width="270" height="200">
+ <img src="https://user-images.githubusercontent.com/34116562/54217627-00672b80-4512-11e9-8670-63cbed7a11bb.png" alt="" width="270" height="200">
  <br>
  <br>
 
