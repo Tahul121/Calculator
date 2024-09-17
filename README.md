@@ -18,7 +18,7 @@
  <br>
 
 <div align="center">
-<a href='https://lokixjs.github.io/Portfolio/' target="_blank"><img alt='Go' src='https://img.shields.io/badge/Go-100000?style=for-the-badge&logo= live demo&logoColor=white&labelColor=red&color=red'/></a>
+<a href='Link' target="_blank"><img alt='Go' src='https://img.shields.io/badge/Go-100000?style=for-the-badge&logo= live demo&logoColor=white&labelColor=red&color=black'/></a>
 
 <br>
 <br>
