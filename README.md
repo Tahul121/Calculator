@@ -18,7 +18,7 @@
  <br>
 
 <div align="center">
-<a href='[https://tahul121.github.io/Calculator/' target="_blank"><img alt='Go' src='https://img.shields.io/badge/Go-100000?style=for-the-badge&logo= live demo&logoColor=white&labelColor=red&color=pink'/></a>
+<a href='https://rahultechser.github.io/Calculator/' target="_blank"><img alt='Go' src='https://img.shields.io/badge/Go-100000?style=for-the-badge&logo= live demo&logoColor=white&labelColor=red&color=pink'/></a>
 
 <br>
 <br>
